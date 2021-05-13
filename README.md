@@ -3,7 +3,7 @@
 ## Principle. early and continuous delivery of valuable software
 
 
-- [x] Quickly deliver a working prototype in the fist week
+- [ ] Quickly deliver a working prototype in the fist week
 - [x] Test this software with the client straight away
 - [x] Show everyone using VS Code to edit the files
 - [x] Make a new directory to store Word Doc
